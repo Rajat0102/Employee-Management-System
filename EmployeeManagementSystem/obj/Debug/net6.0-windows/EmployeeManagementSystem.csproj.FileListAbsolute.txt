@@ -1,0 +1,46 @@
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Form1.resources
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Insert.resources
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.RegisterPage.resources
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Update.resources
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\Acer\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.exe
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.deps.json
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.runtimeconfig.json
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.dll
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Form1.resources
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Insert.resources
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.RegisterPage.resources
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.Update.resources
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.csproj.CopyComplete
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.dll
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\refint\EmployeeManagementSystem.dll
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.pdb
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+D:\Rajat\Training Project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net6.0-windows\ref\EmployeeManagementSystem.dll
